@@ -6,6 +6,34 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "mia@mail.com",
+      "password": "$2a$10$HYcvE7gIqfcnhjG3uhRoZudnboTwvuUOwoIGQ8uU0FawVdMmWdsny",
+      "name": "Mia",
+      "id": 2
+    },
+    {
+      "email": "mia1@mail.com",
+      "password": "$2a$10$QIJlsBausH9xUECj9CYXauJN4j9EokFUJHeYZhaTcv8w.6neowYx2",
+      "name": "Mia",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "img": "",
+      "title": "Hamburguer",
+      "category": "Sanduiches",
+      "price": 14
+    }
+  ],
+  "preferences": [
+    {
+      "title": "orange juice",
+      "userId": 3,
+      "id": 1
     }
   ]
 }
